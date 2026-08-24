@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 export default function Home() {
   return (
-    <main className="grow w-full max-w-7xl mx-auto px-4 md:px-8 pt-16 md:pt-28 pb-12 md:pb-16 flex flex-col gap-16 md:gap-24">
+    <section className="grow w-full max-w-7xl mx-auto px-4 md:px-8 pt-16 md:pt-28 pb-12 md:pb-16 flex flex-col gap-16 md:gap-24">
       {/* Hero Section */}
       <section className="flex flex-col md:flex-row items-center justify-between gap-8 bg-white rounded-xl border border-slate-200 p-6 md:p-12 shadow-sm">
         <div className="flex-1 flex flex-col gap-4">
@@ -38,6 +38,6 @@ export default function Home() {
           />
         </div>
       </section>
-    </main>
+    </section>
   );
 }
