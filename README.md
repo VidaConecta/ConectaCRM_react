@@ -1,4 +1,4 @@
-# ConectaCRM_react
+# ConectaCRM_react 
 
 <br />
 
@@ -151,7 +151,7 @@ Para contribuir com o projeto:
 ### 1. Crie uma nova branch
 
 ```bash
-git switch -c minha-feature
+git switch -c minha-feature  
 ```
 
 ### 2. Faça as alterações necessárias
