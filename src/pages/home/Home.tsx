@@ -40,7 +40,7 @@ export default function Home() {
               </Link>
 
               <a
-                href="#sobre"
+                href="/sobre"
                 className="cursor-pointer rounded-lg border border-white/80 bg-white/50 px-6 py-3 text-base font-medium text-[#245CB2] shadow-sm backdrop-blur-md transition-all hover:-translate-y-0.5 hover:border-[#2563EB]/25 hover:bg-[#EAF2FF]/80"
               >
                 Saiba mais
