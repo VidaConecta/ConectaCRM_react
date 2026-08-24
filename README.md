@@ -69,7 +69,7 @@ Antes de iniciar o projeto, certifique-se de ter as seguintes ferramentas instal
 
 ---
 
-## 6. Configuração e Execução
+## 6. Configuração e Execução 
 
 ### 6.1 Clone o repositório
 
