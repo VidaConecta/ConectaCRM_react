@@ -53,7 +53,7 @@ O protótipo da aplicação foi desenvolvido utilizando o Figma.
 | **Linguagem de programação** | TypeScript   |
 | **Biblioteca**               | React JS     |
 | **Build**                    | Vite         |
-| **Estilização**              | CSS          |
+| **Estilização**              | Tailwind     |
 | **Versionamento**            | Git e GitHub |
 
 ---
