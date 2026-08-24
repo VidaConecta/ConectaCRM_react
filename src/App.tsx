@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Oportunidade from './components/oportunidade/Oportunidade';
+import Oportunidade from './pages/oportunidade/Oportunidade';
 
 function App() {
   return (
