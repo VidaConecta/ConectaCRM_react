@@ -1,9 +1,12 @@
+import { Sobre } from "./components/sobre/Sobre"
 
 
 function App() {
   return (
-    <div>App</div>
+    <div>
+    <Sobre/>
+    </div>
   )
 }
 
-export default App
+export default App;
