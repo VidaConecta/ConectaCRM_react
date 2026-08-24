@@ -44,39 +44,6 @@ Página destinada à apresentação dos integrantes da equipe responsável pelo 
 
 O protótipo da aplicação foi desenvolvido utilizando o Figma.
 
-**Protótipo do projeto:**
-[ConectaCRM - Figma](LINK_DO_FIGMA)
-
-#### Home
-
-<div align="center">
-    <img src="LINK_DA_IMAGEM_HOME" title="Página Home - ConectaCRM" width="80%"/>
-</div>
-
-<br />
-
-#### Sobre
-
-<div align="center">
-    <img src="LINK_DA_IMAGEM_SOBRE" title="Página Sobre - ConectaCRM" width="80%"/>
-</div>
-
-<br />
-
-#### Oportunidade
-
-<div align="center">
-    <img src="LINK_DA_IMAGEM_OPORTUNIDADE" title="Página Oportunidade - ConectaCRM" width="80%"/>
-</div>
-
-<br />
-
-#### Apresentação
-
-<div align="center">
-    <img src="LINK_DA_IMAGEM_APRESENTACAO" title="Página Apresentação - ConectaCRM" width="80%"/>
-</div>
-
 ---
 
 ## 4. Tecnologias
